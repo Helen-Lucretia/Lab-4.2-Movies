@@ -1,0 +1,13 @@
+C:\Users\hhatch1\dev\Week4\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.exe
+C:\Users\hhatch1\dev\Week4\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.deps.json
+C:\Users\hhatch1\dev\Week4\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.json
+C:\Users\hhatch1\dev\Week4\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.dev.json
+C:\Users\hhatch1\dev\Week4\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.dll
+C:\Users\hhatch1\dev\Week4\Movies\Movies\bin\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\hhatch1\dev\Week4\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csprojAssemblyReference.cache
+C:\Users\hhatch1\dev\Week4\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfoInputs.cache
+C:\Users\hhatch1\dev\Week4\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfo.cs
+C:\Users\hhatch1\dev\Week4\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CoreCompileInputs.cache
+C:\Users\hhatch1\dev\Week4\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.dll
+C:\Users\hhatch1\dev\Week4\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\hhatch1\dev\Week4\Movies\Movies\obj\Debug\netcoreapp3.1\Movies.genruntimeconfig.cache
